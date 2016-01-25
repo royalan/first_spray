@@ -1,4 +1,18 @@
-.idea/
+*.class
+*.log
+
+# sbt specific
+.cache
+.history
+.lib/
+dist/*
 target/
+lib_managed/
+src_managed/
 project/target
 project/project/target
+project/boot/
+project/plugins/project/
+
+# Scala-IDE specific
+.idea/
