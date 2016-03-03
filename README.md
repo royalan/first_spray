@@ -1,4 +1,7 @@
-## Spray Note
+# First Spray
+This project shows how spray work with spray can or spray routing.
+
+## Reference
 Source : https://github.com/spray/spray-template/
 
 ### Two option for web container
